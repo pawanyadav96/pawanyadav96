@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/shutterstock/photos/505868842/display_1500/stock-vector-programming-coding-programming-banner-flat-design-concept-505868842.jpg)]
+
 <h1 align="center">Hi 👋, I'm Pawan Yadav</h1>
 <h3 align="center">A passionate Java Back-end developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
