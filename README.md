@@ -1,8 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm Pawan Yadav</h1>
 <h3 align="center">A passionate Java Back-end developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanyadav96&label=Profile%20views&color=0e75b6&style=flat" alt="pawanyadav96" /> </p>
+
+- 🌱 I’m currently a student in **masai school banglore**
+
+- 👨‍💻 All of my projects are available at [https://pawanyadav96.github.io/](https://pawanyadav96.github.io/)
+
+- 💬 Ask me about **coding,data structure & algorithms ,and about history**
 
 - 📫 How to reach me **zib494@gmail.com**
 
@@ -20,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanyadav96&show_icons=true&locale=en&layout=compact" alt="pawanyadav96" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanyadav96&show_icons=true&locale=en" alt="pawanyadav96" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanyadav96&" alt="pawanyadav96" /></p>
