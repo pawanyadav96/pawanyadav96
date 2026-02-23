@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **coding,data structure & algorithms ,and about history**
 
-- 📫 How to reach me **zib494@gmail.com**
+- 📫 How to reach me **pawanyadav96dev@gmail.com**
 
 - ⚡ Fun fact **I am funny ,seriously not joking**
 
